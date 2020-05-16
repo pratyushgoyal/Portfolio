@@ -20,7 +20,7 @@ const HomeIndex = () => {
           <header className="major">
             <h2>
               Wow! A whole page just about me
-              <br /><br />
+              <br /><br /><hr />
               Me talking about myself.
             </h2>
           </header>
