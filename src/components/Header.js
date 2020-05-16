@@ -10,11 +10,11 @@ const Header = () => (
         <img src={avatar} alt="" />
       </a>
       <h1>
-        <strong>I am Strata</strong>, a super simple
+        <strong>I am Pratyush Goyal</strong><br></br> a computer science engineer
         <br />
-        responsive site template freebie
+        and this is my portfolio.
         <br />
-        crafted by <a href="http://html5up.net">HTML5 UP</a>.
+        
       </h1>
     </div>
     <Footer />
