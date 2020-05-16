@@ -12,7 +12,7 @@ const Header = () => (
       <h1>
         <strong>I am Pratyush Goyal</strong><br></br> a computer science engineer  
         <br /><br />
-           and this is my portfolio.
+           <pre> and this is my portfolio.</pre>
         <br />
         
       </h1>
